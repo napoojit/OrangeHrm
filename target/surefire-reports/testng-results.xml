@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T22:41:15 IST" name="Suite" finished-at="2024-02-29T22:41:36 IST" duration-ms="20613">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T22:41:15 IST" name="Test" finished-at="2024-02-29T22:41:36 IST" duration-ms="20613">
+      <class name="Manipal.OrangeHRM.Immigration">
+        <test-method signature="Immigrationmethod()[pri:0, instance:Manipal.OrangeHRM.Immigration@37883b97]" started-at="2024-02-29T22:41:15 IST" name="Immigrationmethod" finished-at="2024-02-29T22:41:36 IST" duration-ms="20498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Immigrationmethod -->
+      </class> <!-- Manipal.OrangeHRM.Immigration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
